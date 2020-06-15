@@ -1,0 +1,15 @@
+body{
+  background-image: url("https://www.chartattack.com/wp-content/uploads/2019/10/library-books.jpg");
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+h1{
+  color:white;
+  font-style: italic;
+  font-size: 100px; 
+}
+div{
+	background-color: black;
+	font-size:40px;
+	
+}
